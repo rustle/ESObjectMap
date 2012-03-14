@@ -1,0 +1,3 @@
+[submodule "NSObject+PropertyDictionary"]
+	path = NSObject+PropertyDictionary
+	url = https://github.com/rustle/NSObject-PropertyDictionary.git
