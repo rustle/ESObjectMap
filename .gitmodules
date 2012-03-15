@@ -1,3 +1,6 @@
 [submodule "NSObject+PropertyDictionary"]
 	path = NSObject+PropertyDictionary
 	url = https://github.com/rustle/NSObject-PropertyDictionary.git
+[submodule "ESMutableDictionary"]
+	path = ESMutableDictionary
+	url = https://github.com/rustle/ESMutableDictionary
